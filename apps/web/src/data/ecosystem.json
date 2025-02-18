@@ -1,4 +1,11 @@
-[
+{
+  "name": "Snailbrook AI",
+  "description": "Snailbrook AI proves that even something as small as a meme—or a snail—can unite the world and give back. With AI-driven donations, memes as a tool, and fun AI agents, it turns culture into real impact.",
+  "url": "https://snailbrook.ai",
+  "imageUrl": "/images/partners/snailbrook-ai.png",
+  "category": "ai",
+  "subcategory": "ai"
+}
   {
     "name": "3DNS",
     "description": "3DNS is a decentralized domain name service (DNS) that can power real web domains. Users can import an existing domain or register a new one and bring the domain onchain via 3DNS.",
